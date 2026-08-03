@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Talab
 
-<!--
-**AliTalabi/AliTalabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Python Developer | Programming Instructor | AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  High school student at <b>Allameh Helli (SAMPAD)</b> passionate about 
+  Software Engineering, Artificial Intelligence, and building creative projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Python Developer focused on creating applications and games
+- 👨‍🏫 Programming Instructor
+- 🎮 Developing projects with Python & Pygame
+- 🧠 Interested in Artificial Intelligence and Software Engineering
+- 📚 Always learning and exploring new technologies
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,pycharm,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pygame,linux,html,css" />
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 **Khwarazmi Programming Festival**
+- 🥈 2nd Place in Programming Category for **3 consecutive years**
+
+🏆 **Paya Scientific Competition**
+- 🌎 National Rank **101**
+
+👨‍🏫 **Programming Instructor**
+- Teaching Python programming
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-nnz63j806-ali-talabi.vercel.app/api?username=AliTalabi1389&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-nnz63j806-ali-talabi.vercel.app/api/top-langs/?username=AliTalabi1389&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/AliTalabi1389">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
