@@ -69,18 +69,32 @@
 
 ---
 
-## Connect With Me
+### Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/AliTalabi">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+  <a href="https://github.com/AliTalabi" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
+  </a>
+
+  <a href="https://t.me/YOUR_USERNAME" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram"/>
+  </a>
+
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
 
 </p>
 
----
-
 <p align="center">
-Thanks for visiting my profile!
+Do what you want to do.
 </p>
