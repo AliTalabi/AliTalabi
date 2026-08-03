@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-nnz63j806-ali-talabi.vercel.app/api?username=AliTalabi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-ivory-mu-8w267dtarr.vercel.app/api?username=AliTalabi&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -60,7 +60,7 @@
 
 <p align="center">
 
-<a href="https://github.com/AliTalabi1389">
+<a href="https://github.com/AliTalabi">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
