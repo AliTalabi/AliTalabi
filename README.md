@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-nnz63j806-ali-talabi.vercel.app/api?username=AliTalabi1389&show_icons=true&theme=tokyonight&v=1">
+![GitHub Stats](https://github-readme-stats-nnz63j806-ali-talabi.vercel.app/api?username=AliTalabi&show_icons=true&theme=tokyonight)
 
 ---
 
