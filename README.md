@@ -52,7 +52,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-ivory-mu-8w267dtarr.vercel.app/api?username=AliTalabi&show_icons=true&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=AliTalabi&color=blueviolet)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-ivory-mu-8w267dtarr.vercel.app/api?username=AliTalabi&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-ivory-mu-8w267dtarr.vercel.app/api/top-langs/?username=AliTalabi&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
