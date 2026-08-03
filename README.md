@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Talab
+# 👋 NAMAST3, I'm Ali Talab
 
 <h3 align="center">
   Python Developer | Programming Instructor | AI Enthusiast
