@@ -50,15 +50,9 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-nnz63j806-ali-talabi.vercel.app/api?username=AliTalabi1389&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-nnz63j806-ali-talabi.vercel.app/api/top-langs/?username=AliTalabi1389&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats-nnz63j806-ali-talabi.vercel.app/api?username=AliTalabi1389&show_icons=true&theme=tokyonight" />
 
 ---
 
