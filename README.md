@@ -1,7 +1,7 @@
 # This is Ali Talabi
 
 <h3 align="center">
-  <span style="color: #00A8FF;">Python Developer | Programming Instructor | Web Developer</span>
+  Python Developer | Programming Instructor | Web Developer
 </h3>
 
 <p align="center">
@@ -77,19 +77,19 @@
     <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/ali-talabi-941285257" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ali.talabi.official.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
   </a>
 
-  <a href="https://t.me/YOUR_USERNAME" target="_blank">
+  <a href="https://t.me/NAMAST39" target="_blank">
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram"/>
   </a>
 
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://instagram.com/ali.tlb0" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
 
