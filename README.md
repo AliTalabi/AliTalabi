@@ -77,7 +77,7 @@
     <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
   </a>
 
-  <a href="https://linkedin.com/in/ali-talabi-941285257" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-talabi-941285257/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
 
