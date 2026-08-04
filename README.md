@@ -1,17 +1,17 @@
-# This is Ali Talabi
+# Oh hi! I`m Ali Talabi👋
 
 <h3 align="center">
   Python Developer | Programming Instructor | Web Developer
 </h3>
 
 <p align="center">
-  High school student at <b>Allameh Helli (SAMPAD)</b> passionate about 
-  Software Engineering, Artificial Intelligence, and building creative projects.
+  High school student at <b>Allameh Helli (SAMPAD)</b> with a strong interest in
+  Software Engineering, Artificial Intelligence, and Python development.
 </p>
 
 ---
 
-## About Me
+## 🧾About Me
 
 - Python Developer
 - Django Web Developer
@@ -21,7 +21,7 @@
 
 ---
 
-## GitHub Stats
+## 📊GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-ivory-mu-8w267dtarr.vercel.app/api?username=AliTalabi&show_icons=true&theme=github_dark"/>
@@ -34,7 +34,7 @@
 
 ---
 
-## Skills & Technologies
+## 🖥️Skills & Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,25 +51,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### Database & Systems
+### Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## Achievements
-
-**- Khwarazmi Programming Festival**
-- 2nd Place in Programming Category for **3 consecutive years**
-
-**- Paya Scientific Competition**
-- National Rank **101**
-
-**- Programming Instructor**
-- Teaching Python programming
-
----
-
-### Connect With Me
+### ✉️Connect With Me
 
 <p align="center">
 
@@ -96,5 +83,5 @@
 </p>
 
 <p align="center">
-Do what you want to do.
+Be happy!
 </p>
