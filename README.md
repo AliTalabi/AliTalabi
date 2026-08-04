@@ -42,6 +42,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliTalabi&theme=github-dark"/>
 </p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=AliTalabi&style=for-the-badge&color=blue" alt="Profile Views" /> 
+</p>
+
 ---
 
 ## 🖥️ Skills & Technologies
