@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliTalabi&theme=github-dark"/>
+  <img src="https://streak-stats.demolab.com?user=AliTalabi&theme=github-dark&v=2"/>
 </p>
 
 <p align="center">
