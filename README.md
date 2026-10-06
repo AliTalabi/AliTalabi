@@ -91,7 +91,7 @@
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram"/>
   </a>
 
-  <a href="https://instagram.com/ali.tlb0" target="_blank">
+  <a href="https://instagram.com/ali.talabi0" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
 
